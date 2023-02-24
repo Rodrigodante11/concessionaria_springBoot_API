@@ -6,3 +6,9 @@
 <strong>Spring-boot 2.7.9 </strong> </br>
 <strong>Junit 5</strong></br>
 <strong>Token JWT</strong></br></br>
+
+Banco de dados do Projeto
+- usuario
+- cliente
+- automovel
+- locacao
